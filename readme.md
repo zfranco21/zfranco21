@@ -1,6 +1,12 @@
 <br clear="both">
 
-<h4 align="left">Hola! Soy Franco Herrera, desarrollador web Front-end con experiencia en Back-end y Bases de Datos. Graduado en la Universidad de Buenos Aires (cudi) con una diplomatura en Desarrollo de Software Web.</h4>
+<h4 align="left">
+¡Hola! 👋 Soy Franco Herrera, desarrollador web Frontend.
+✨ Me apasiona crear interfaces de usuario atractivas e intuitivas, optimizando la experiencia del usuario con tecnologías modernas como HTML, CSS, JavaScript, React, Tailwind CSS y Bootstrap.
+🛠️ También tengo experiencia en bases de datos (MySQL, MongoDB) y en el uso de herramientas como Git, GitHub y Figma, además de aplicar metodologías ágiles como Scrum y Kanban.
+🎯 Mi objetivo es aportar soluciones innovadoras que generen valor real, trabajando en equipo y aprendiendo constantemente.
+
+🔗 <a src="https://www.linkedin.com/in/zfrancoh/">LinkedIn</a> | 🐙 <a src="https://github.com/zfranco21">GitHub</a></h4>
 
 ###
 
