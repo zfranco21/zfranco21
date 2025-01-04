@@ -5,9 +5,6 @@
 ✨ Me apasiona crear interfaces de usuario atractivas e intuitivas, optimizando la experiencia del usuario con tecnologías modernas como HTML, CSS, JavaScript, React, Tailwind CSS y Bootstrap.
 🛠️ También tengo experiencia en bases de datos (MySQL, MongoDB) y en el uso de herramientas como Git, GitHub y Figma, además de aplicar metodologías ágiles como Scrum y Kanban.
 🎯 Mi objetivo es aportar soluciones innovadoras que generen valor real, trabajando en equipo y aprendiendo constantemente.
-
-🔗 <a src="https://www.linkedin.com/in/zfrancoh/">LinkedIn</a> | 🐙 <a src="https://github.com/zfranco21">GitHub</a></h4>
-
 ###
 
 <img align="right" height="120" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif"  />
