@@ -1,8 +1,7 @@
 <br clear="both">
 
 <h4 align="left">
-¡Hola! 👋 Soy Franco Herrera, desarrollador web Frontend.
-✨ Me apasiona crear interfaces de usuario atractivas e intuitivas, optimizando la experiencia del usuario con tecnologías modernas como HTML, CSS, JavaScript, React, Tailwind CSS y Bootstrap.
+¡Hola! 👋 Soy Franco Herrera, desarrollador web Frontend. Me gusta crear interfaces de usuario atractivas e intuitivas, optimizando la experiencia del usuario con tecnologías modernas como HTML, CSS, JavaScript, React, Tailwind CSS y Bootstrap.
 🛠️ También tengo experiencia en bases de datos (MySQL, MongoDB) y en el uso de herramientas como Git, GitHub y Figma, además de aplicar metodologías ágiles como Scrum y Kanban.
 🎯 Mi objetivo es aportar soluciones innovadoras que generen valor real, trabajando en equipo y aprendiendo constantemente.
 ###
