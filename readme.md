@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="pc" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI3eTQzOTZ1Z25iNmFpdWIzNW55MnQ2OHE1MHY2Nzl4MjA5Ymh3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
 
-<img src="https://img.icons8.com/?size=100&id=4zNK2THQI1Wg&format=png&color=000000" width="30px">&nbsp;***About me***
+<img src="https://img.icons8.com/?size=100&id=m9g56hTQ4UWz&format=png&color=000000" width="30px">&nbsp;***About me***
 
 I am a Frontend Web Developer, graduated and trained in two Universities of Buenos Aires (Utn and Cudi) as a "Full-Stack Web Software Developer". Currently I continue to expand my knowledge in both front-end and back-end development, polishing my skills in different projects, and looking for my first job as a Frontend programmer through Linkedin and other platforms.
 - 🌱 I’m currently learning ...
