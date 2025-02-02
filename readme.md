@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Franco Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="pc" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI3eTQzOTZ1Z25iNmFpdWIzNW55MnQ2OHE1MHY2Nzl4MjA5Ymh3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="right" width=300px alt="pc" src="https://tenor.com/es-AR/view/developer-gif-27712700" />
 
 <img src="https://img.icons8.com/?size=100&id=m9g56hTQ4UWz&format=png&color=000000" width="30px">&nbsp;***About me***
 
