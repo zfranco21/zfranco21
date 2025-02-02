@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Franco Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="pc" src="https://tenor.com/es-AR/view/developer-gif-27712700" />
+<img align="right" width=300px alt="pc" src="https://programadordesucesso.com.br/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-05-at-16.03.37.jpeg" />
 
 <img src="https://img.icons8.com/?size=100&id=m9g56hTQ4UWz&format=png&color=000000" width="30px">&nbsp;***About me***
 
