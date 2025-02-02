@@ -1,87 +1,72 @@
-<br clear="both">
+<h1 align="center"><b>Hi , I'm Franco Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<h4 align="left">
-¡Hola! 👋 Bienvenido a mi perfil de Github, Soy desarrollador web Frontend. Me gusta crear interfaces de usuario atractivas e intuitivas, optimizando la experiencia del usuario con tecnologías modernas como HTML, CSS, JavaScript, React, Tailwind CSS y Bootstrap.
-🛠️ También tengo experiencia en bases de datos (MySQL, MongoDB) y en el uso de herramientas como Git, GitHub y Figma, además de aplicar metodologías ágiles como Scrum y Kanban.
-🎯 Mi objetivo es aportar soluciones innovadoras que generen valor real, trabajando en equipo y aprendiendo constantemente.
-###
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<img align="right" height="120" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif"  />
+I am a Frontend Web Developer, graduated and trained in two Universities of Buenos Aires (Utn and Cudi) as a "Full-Stack Web Software Developer". Currently I continue to expand my knowledge in both front-end and back-end development, polishing my skills in different projects, and looking for my first job as a Frontend programmer through Linkedin and other platforms.
+- 🌱 I’m currently learning ...
+  - More about React, Node.js and AWS
+  - computer support to offer services in that area.
+  - Brave Browser
+ 
+- 💻 I really want to collaborate on open source projects.
+- ✔ Ask me about anything, I will be present to help you<br>
+- Outside of technology, I like to spend time with my partner or family, 🎮 play video games, 🎵 listen to music, 📖 read personal development books or 🏀 play sports.
+- 🌐 I usually spend a lot of time on Linkedin reviewing job offers or improving my profile, sharing achievements, etc. so feel free to visit my profile! <a href="https://www.linkedin.com/in/zfrancoh/">My Linkedin</a>
+- 📫 Contact me at: <a href="francoherrera1759@gmail.com">francoherrera1759@gmail.com</a>
 
-###
+## My Skills Include
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" alt="react logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" alt="python logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="22" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="22" alt="sqlite logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="22" alt="firebase logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="22" alt="flask logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="22" alt="sass logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="22" alt="bootstrap logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="22" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="22" alt="windows8 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="22" alt="linux logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="22" alt="bash logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="22" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="22" alt="slack logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="22" alt="trello logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-
-  <!-- Enlace a tu portafolio -->
-  <a href="https://francoherrera.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portafolio&logo=person&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="portafolio logo"  />
-  </a>  
-  
-  
-  <!-- Enlace a LinkedIn -->
-  <a href="https://www.linkedin.com/in/zfrancoh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-
-  <!-- Enlace a Gmail -->
-  <a href="francoherrera1759@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  
-</div>
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
 
 
-###
 
-<br clear="both">
+</span>
 
-<div align="center">
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
+
+
+
+</span>
+
+## Check out my Social Media
+
+<a href="https://francoherrera.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%23FF0000.svg?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portafolio">
+</a>
+<a href= "https://www.instagram.com/francoherrera221/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/zfrancoh/" >
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+
+
+<h2>Github stats:</h2> 
   <img src="https://github-readme-stats.vercel.app/api?username=zfranco21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=zfranco21&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
-###
