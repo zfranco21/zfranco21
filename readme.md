@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="pc" src="https://programadordesucesso.com.br/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-05-at-16.03.37.jpeg" />
 
-<img src="https://img.icons8.com/?size=100&id=m9g56hTQ4UWz&format=png&color=000000" width="30px">&nbsp;***About me***
+<img src="https://img.icons8.com/?size=100&id=m9g56hTQ4UWz&format=png&color=000000" width="20px">&nbsp;***About me***
 
 I am a Frontend Web Developer, graduated and trained in two Universities of Buenos Aires (Utn and Cudi) as a "Full-Stack Web Software Developer". Currently I continue to expand my knowledge in both front-end and back-end development, polishing my skills in different projects, and looking for my first job as a Frontend programmer through Linkedin and other platforms.
 - 🌱 I’m currently learning ...
