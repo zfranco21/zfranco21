@@ -1,12 +1,12 @@
 
-![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1584 x 300 px) (3)](https://drive.google.com/file/d/129DbLU5nLPqOjeun-L59OAhQ5WuWShTb/view?usp=sharing)
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1584 x 300 px) (3)](https://github.com/zfranco21/headerProfile/blob/main/github-header-image.png?raw=true)
 
 
 [![Bienvenido a mi Perfil Dev' world!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Welcome%20to%20Almu%20Codes%27%20world%21)](https://pimp-my-readme-next.vercel.app)
 
 # Sobre Mi:
 
-Soy un desarrollador frontend apasionado por crear interfaces de usuarios atractivas
+Soy un desarrollador Frontend apasionado por crear interfaces de usuarios atractivas
 y soluciones web innovadoras. Hablo español e ingles con fluidez. Además de la tecnología,
 me apasiona el deporte, los video juegos y viajar.
 
@@ -37,8 +37,6 @@ me apasiona el deporte, los video juegos y viajar.
 
 ---
 
-# Conectemos!:
+# Conectemos !:
 
 [![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/zfranco21)
-[![Github](https://pimp-my-readme-next.vercel.app/api/social-media?social=Github)](https://github.com/zfranco21)
-
