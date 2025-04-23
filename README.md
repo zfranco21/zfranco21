@@ -37,6 +37,6 @@ me apasiona el deporte, los video juegos y viajar.
 
 # Conectemos !:
 
-[![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/zfranco21)
+[![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/zfrancoh/)
 [![Instagram](https://pimp-my-readme-next.vercel.app/api/social-media?social=Instagram)](https://www.instagram.com/francoherrera221/)
 [![Stack Overflow](https://pimp-my-readme-next.vercel.app/api/social-media?social=Stack%20Overflow)](https://stackoverflow.com/users/edit/30347420)
