@@ -6,9 +6,9 @@ console.log('!Bienvenido a mi Perfil!');
 
 # Sobre Mi:
 
-Soy un desarrollador Frontend apasionado por crear interfaces de usuarios atractivas
-y soluciones web innovadoras. Hablo español e ingles con fluidez. Además de la tecnología,
-me apasiona el deporte, los video juegos y viajar.
+Soy desarrollador Frontend React, me gusta crear interfaces de usuarios atractivas
+y soluciones web innovadoras. Hablo español e ingles. Además de la tecnología,
+me apasiona el deporte, los videojuegos y viajar.
 
 # Stack Tecnologico:
 
