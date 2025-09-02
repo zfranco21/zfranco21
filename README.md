@@ -22,9 +22,9 @@ me apasiona el deporte, los videojuegos y viajar.
 
 🌱 Actualmente estoy aprendiendo...
 
-+ React a Fondo con Santander Open Academy y Proyectos Webs a gran escala.
++ React a Fondo en el programa Talento tech de Buenos Aires Aprende y Proyectos Webs a gran escala en equipo.
+
 +Soporte Tecnico de PC para ofrecer servicios desde casa.
-+Computacion avanzada en la UTN.
 
 💻 Tengo muchas ganas de colaborar en proyectos de código abierto.
 ✔ Pregúntame cualquier cosa, estaré disponible para ayudarte.
